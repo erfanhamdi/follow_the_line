@@ -1,8 +1,4 @@
-# Cropping Dimensions
-x1: 0
-x2: 650
-y1: 50
-y2: 400
+
 
 # Video Address
 video_address: "/Users/venus/Erfan/sepehr/pattern2.mp4"
